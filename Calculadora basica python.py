@@ -14,7 +14,7 @@ def calculadora():
         opcion = input("-Elige una opción:")
 
         if opcion == '5':
-            print("¡Hasta luego, bro!")
+            print("¡Gracias, hasta luego!")
             break
 
         num1 = float(input("Ingresar el primer número: "))
